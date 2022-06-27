@@ -1,3 +1,13 @@
 Link para download do Giy: https://git-scm.com/downloads
 
 O git bash é um terminal extendido para utilização do Git.
+
+## Alguns comandos
+
+git init  => Inicia o repósitorio em uma pasta de um projeto local no terminal Git Bash
+
+git status => Descreve a situação atual do git (se a arquivos a serem adicionados ou comitados) 
+
+git add . => adiciona ao terminal as modificações que foram realizadas no projeto.
+
+git commit -m "" => Commita as modificações e descreve um breve comentario entre aspas "" do real estado da modificação
