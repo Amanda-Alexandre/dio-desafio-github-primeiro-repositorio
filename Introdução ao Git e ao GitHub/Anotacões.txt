@@ -1,0 +1,3 @@
+Link para download do Giy: https://git-scm.com/downloads
+
+O git bash é um terminal extendido para utilização do Git.
