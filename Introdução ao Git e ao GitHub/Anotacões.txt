@@ -11,3 +11,12 @@ git status => Descreve a situação atual do git (se a arquivos a serem adiciona
 git add . => adiciona ao terminal as modificações que foram realizadas no projeto.
 
 git commit -m "" => Commita as modificações e descreve um breve comentario entre aspas "" do real estado da modificação
+
+git remote add origin https:_____________________________ => linca o repositorio local com o espaço no repositorio remoto que foi criado.
+
+git remote -v => mostra o repositorio no qual foi lincado
+
+
+git push origin main  => sobe o arquivo para o repositorio remoto(github)
+
+git pull origin main => baixa as configurações modificadas do git hub para o repositorio local, caso alguem tenha modificado alguma coisa codigo
